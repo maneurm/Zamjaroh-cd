@@ -1,0 +1,8 @@
+Images by Zamjaroh34: https://www.tumblr.com/blog/zamjaroh-34
+
+License:
+http://creativecommons.org/licenses/by-sa/2.0/deed.en 
+Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0)
+
+Source code:
+https://tympanus.net/codrops/2012/01/02/fullscreen-background-image-slideshow-with-css3/
