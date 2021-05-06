@@ -6,7 +6,12 @@ Tentang Countdown menuju kelulusan angkatan zamjaroh, berniat menjadi website ya
 
 
 # log 060521 00.13:
-- Added Sourcecode from : https://tympanus.net/codrops/2012/01/02/fullscreen-background-image-slideshow-with-css3/ for main slideshow animation, Images by me. 
+- Added Sourcecode from : https://tympanus.net/codrops/2012/01/02/fullscreen-background-image-slideshow-with-css3/ for main slideshow animation, 
+- Images by me. 
+
+#Thank you:
+-w3schools :https://www.w3schools.com/howto/howto_js_countdown.asp
+-Mary Lou From codrops : https://tympanus.net/codrops/2012/01/02/fullscreen-background-image-slideshow-with-css3/
 
 # License:
 http://creativecommons.org/licenses/by-sa/2.0/deed.en 
